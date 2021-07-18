@@ -2,6 +2,12 @@
 
 This project involves understanding the fundamental concepts & different algorithms to analyze the different architectures of Convolutional Neural Networks. And implementation of these architectures in Python.
 
+Softwares/Frameworks:
+
+Python
+Jupyter Notebook
+Google Colab Libraries : PyTorch, NumPy, Matplotlib, TensorFlow
+
 1 Deep Learning basics :
 This included learning the basics of Neural Networks and Deep Learning. 
 Completed two Coursera courses Neural Network and Deep Learning and Improving the Neural Network
@@ -18,4 +24,4 @@ Reading the research papers of different architectures of CNN - AlexNet, VggNet,
 4 Implementing CNN Architecture & Transfer Learning :
 Implementing the AlexNet architecture from scratch on the dataset Fashion MNIST
 Implementing and understanding the concept of Transfer Learning
-Implementing the transfer Learning on different architectures - alexnet, vggNet, resNet, googleNet
+Implementing the transfer Learning on different architectures - VggNet, ResNet, GoogleNet
