@@ -4,9 +4,9 @@ This project involves understanding the fundamental concepts & different algorit
 
 Softwares/Frameworks:
 
-Python
-Jupyter Notebook
-Google Colab Libraries : PyTorch, NumPy, Matplotlib, TensorFlow
+#Python 
+#Jupyter Notebook 
+#PyTorch, NumPy, Matplotlib, TensorFlow
 
 1 Deep Learning basics :
 This included learning the basics of Neural Networks and Deep Learning. 
